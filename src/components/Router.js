@@ -9,21 +9,21 @@ const AppRouter = () => {
         <Router>
             <ul>
       <li>
-        <Link to= "/">Home</Link>
+        <Link to= "/bfwitter">Home</Link>
 
       </li>
       <li>
-        <Link to= "/login">Login</Link>
+        <Link to= "/bfwitter/login">Login</Link>
       </li>
       <li>
-        <Link to= "/hobit">Hobit</Link>
+        <Link to= "/bfwitter/hobit">Hobit</Link>
 
       </li>
     </ul>
             <Switch>
-                <Route exact path="/" component={Home}/>
-                <Route exact path="/login" component={Login}/>
-                <Route exact path="/hobit" component={Hobit}/>
+                <Route exact path="/bfwitter" component={Home}/>
+                <Route exact path="/bfwitter/login" component={Login}/>
+                <Route exact path="/bfwitter/hobit" component={Hobit}/>
             </Switch>
         </Router>
     )
