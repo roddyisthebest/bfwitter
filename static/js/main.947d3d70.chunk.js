@@ -1,2 +1,0 @@
-(this.webpackJsonpbfwitter=this.webpackJsonpbfwitter||[]).push([[0],{9:function(t,e,n){"use strict";n.r(e);var r=n(1),c=n.n(r),i=n(3),s=n.n(i),o=n(0);var a=function(){return Object(o.jsx)("div",{children:"fuckin react "})};s.a.render(Object(o.jsx)(c.a.StrictMode,{children:Object(o.jsx)(a,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.947d3d70.chunk.js.map

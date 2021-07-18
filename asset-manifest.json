@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/bfwitter/static/js/main.947d3d70.chunk.js",
-    "main.js.map": "/bfwitter/static/js/main.947d3d70.chunk.js.map",
+    "main.js": "/bfwitter/static/js/main.bbda44d8.chunk.js",
+    "main.js.map": "/bfwitter/static/js/main.bbda44d8.chunk.js.map",
     "runtime-main.js": "/bfwitter/static/js/runtime-main.0cc19365.js",
     "runtime-main.js.map": "/bfwitter/static/js/runtime-main.0cc19365.js.map",
-    "static/js/2.bd0479b8.chunk.js": "/bfwitter/static/js/2.bd0479b8.chunk.js",
-    "static/js/2.bd0479b8.chunk.js.map": "/bfwitter/static/js/2.bd0479b8.chunk.js.map",
+    "static/js/2.aae22c62.chunk.js": "/bfwitter/static/js/2.aae22c62.chunk.js",
+    "static/js/2.aae22c62.chunk.js.map": "/bfwitter/static/js/2.aae22c62.chunk.js.map",
     "index.html": "/bfwitter/index.html",
-    "static/js/2.bd0479b8.chunk.js.LICENSE.txt": "/bfwitter/static/js/2.bd0479b8.chunk.js.LICENSE.txt"
+    "static/js/2.aae22c62.chunk.js.LICENSE.txt": "/bfwitter/static/js/2.aae22c62.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0cc19365.js",
-    "static/js/2.bd0479b8.chunk.js",
-    "static/js/main.947d3d70.chunk.js"
+    "static/js/2.aae22c62.chunk.js",
+    "static/js/main.bbda44d8.chunk.js"
   ]
 }
