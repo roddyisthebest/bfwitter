@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/bfwitter/static/js/main.385ed61f.chunk.js",
-    "main.js.map": "/bfwitter/static/js/main.385ed61f.chunk.js.map",
+    "main.js": "/bfwitter/static/js/main.7b00f3c6.chunk.js",
+    "main.js.map": "/bfwitter/static/js/main.7b00f3c6.chunk.js.map",
     "runtime-main.js": "/bfwitter/static/js/runtime-main.0cc19365.js",
     "runtime-main.js.map": "/bfwitter/static/js/runtime-main.0cc19365.js.map",
     "static/js/2.aae22c62.chunk.js": "/bfwitter/static/js/2.aae22c62.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.0cc19365.js",
     "static/js/2.aae22c62.chunk.js",
-    "static/js/main.385ed61f.chunk.js"
+    "static/js/main.7b00f3c6.chunk.js"
   ]
 }
